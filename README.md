@@ -26,6 +26,8 @@ db-dev.properties : 数据库连接配置
 
 spring-config-db.xml：mybatis配置
 
+支付宝支付一个好项目：https://github.com/OUYANGSIHAI/sihai-maven-ssm-alipay
+
 
 
 
